@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TCPServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\TCPClient\\TCPClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\UDPClient\\UDPClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

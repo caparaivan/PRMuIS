@@ -1,0 +1,37 @@
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPClient\bin\Debug\TCPClient.exe.config
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPClient\bin\Debug\TCPClient.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPClient\bin\Debug\TCPClient.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPClient\obj\Debug\TCPClient.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPClient\obj\Debug\TCPClient.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\bin\Debug\TCPClient.exe.config
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\bin\Debug\TCPClient.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\bin\Debug\TCPClient.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\bin\Debug\Biblioteka.dll
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\bin\Debug\Biblioteka.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\obj\Debug\TCPClient.csproj.Up2Date
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\obj\Debug\TCPClient.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\obj\Debug\TCPClient.csproj.Up2Date
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.csproj.Up2Date
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.pdb

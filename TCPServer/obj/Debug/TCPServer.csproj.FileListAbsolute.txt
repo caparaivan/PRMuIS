@@ -1,0 +1,37 @@
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPServer\bin\Debug\TCPServer.exe.config
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPServer\bin\Debug\TCPServer.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPServer\bin\Debug\TCPServer.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPServer\obj\Debug\TCPServer.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\09\Zadaci\Z1\TCPServer\obj\Debug\TCPServer.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\bin\Debug\TCPServer.exe.config
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\bin\Debug\TCPServer.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\bin\Debug\TCPServer.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\bin\Debug\Biblioteka.dll
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\bin\Debug\Biblioteka.pdb
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\obj\Debug\TCPServer.csproj.Up2Date
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\obj\Debug\TCPServer.exe
+E:\FTN\Predmeti\Računarske mreže\Nove Vežbe\11\Zadaci\Z2\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\obj\Debug\TCPServer.csproj.Up2Date
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Korisnik\Desktop\prm\v11\Z2\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.csproj.Up2Date
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.pdb

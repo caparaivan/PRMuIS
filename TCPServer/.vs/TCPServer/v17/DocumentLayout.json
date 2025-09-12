@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD95911-871A-4602-8A01-021BA73A6E6E}|..\\UDPClient\\UDPClient.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\udpclient\\gostklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E669641-5DB5-4732-B0FD-DC9099341431}|TCPServer.csproj|C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E669641-5DB5-4732-B0FD-DC9099341431}|TCPServer.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE456EB1-56C7-47E3-9DC7-CDE353E0B5B4}|..\\TCPClient\\TCPClient.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\tcpclient\\osobljeklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9E35C0-387A-42F1-A501-B27DABE18FBE}|..\\Biblioteka\\Biblioteka.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\biblioteka\\hotelskisistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD95911-871A-4602-8A01-021BA73A6E6E}|..\\UDPClient\\UDPClient.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\udpclient\\udpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAUwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:00:27.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OsobljeKlijent.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPClient\\OsobljeKlijent.cs",
+              "RelativeDocumentMoniker": "..\\TCPClient\\OsobljeKlijent.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPClient\\OsobljeKlijent.cs",
+              "RelativeToolTip": "..\\TCPClient\\OsobljeKlijent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:00:26.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GostKlijent.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\GostKlijent.cs",
+              "RelativeDocumentMoniker": "..\\UDPClient\\GostKlijent.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\GostKlijent.cs",
+              "RelativeToolTip": "..\\UDPClient\\GostKlijent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:25:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelskiSistem.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\Biblioteka\\HotelskiSistem.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteka\\HotelskiSistem.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\Biblioteka\\HotelskiSistem.cs",
+              "RelativeToolTip": "..\\Biblioteka\\HotelskiSistem.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA+wDkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:59:44.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UDPClient.csproj",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\UDPClient.csproj",
+              "RelativeDocumentMoniker": "..\\UDPClient\\UDPClient.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\UDPClient.csproj",
+              "RelativeToolTip": "..\\UDPClient\\UDPClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T07:27:11.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
