@@ -1,22 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\",
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\PRMuIS\\TCPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFD95911-871A-4602-8A01-021BA73A6E6E}|..\\UDPClient\\UDPClient.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\udpclient\\gostklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFD95911-871A-4602-8A01-021BA73A6E6E}|..\\UDPClient\\UDPClient.csproj|c:\\users\\korisnik\\source\\repos\\prmuis\\udpclient\\gostklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E669641-5DB5-4732-B0FD-DC9099341431}|TCPServer.csproj|C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E669641-5DB5-4732-B0FD-DC9099341431}|TCPServer.csproj|C:\\Users\\Korisnik\\source\\repos\\PRMuIS\\TCPServer\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E669641-5DB5-4732-B0FD-DC9099341431}|TCPServer.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE456EB1-56C7-47E3-9DC7-CDE353E0B5B4}|..\\TCPClient\\TCPClient.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\tcpclient\\osobljeklijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\GostKlijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B9E35C0-387A-42F1-A501-B27DABE18FBE}|..\\Biblioteka\\Biblioteka.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\biblioteka\\hotelskisistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPClient\\OsobljeKlijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFD95911-871A-4602-8A01-021BA73A6E6E}|..\\UDPClient\\UDPClient.csproj|c:\\users\\korisnik\\desktop\\prm\\v11\\hotel - tim 22\\udpclient\\udpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\Biblioteka\\HotelskiSistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\UDPClient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,61 +65,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\Server.cs",
-              "RelativeDocumentMoniker": "Server.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPServer\\Server.cs",
-              "RelativeToolTip": "Server.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAUwLgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GostKlijent.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\PRMuIS\\UDPClient\\GostKlijent.cs",
+              "RelativeDocumentMoniker": "..\\UDPClient\\GostKlijent.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\PRMuIS\\UDPClient\\GostKlijent.cs",
+              "RelativeToolTip": "..\\UDPClient\\GostKlijent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T07:00:27.994Z"
+              "WhenOpened": "2025-09-13T12:07:29.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\PRMuIS\\TCPServer\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\PRMuIS\\TCPServer\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:00:27.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OsobljeKlijent.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPClient\\OsobljeKlijent.cs",
-              "RelativeDocumentMoniker": "..\\TCPClient\\OsobljeKlijent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPClient\\OsobljeKlijent.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPClient\\OsobljeKlijent.cs",
-              "RelativeToolTip": "..\\TCPClient\\OsobljeKlijent.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\TCPClient\\OsobljeKlijent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T07:00:26.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GostKlijent.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\GostKlijent.cs",
-              "RelativeDocumentMoniker": "..\\UDPClient\\GostKlijent.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\GostKlijent.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\GostKlijent.cs",
-              "RelativeToolTip": "..\\UDPClient\\GostKlijent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAANAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\GostKlijent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T07:25:11.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HotelskiSistem.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\Biblioteka\\HotelskiSistem.cs",
-              "RelativeDocumentMoniker": "..\\Biblioteka\\HotelskiSistem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\Biblioteka\\HotelskiSistem.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\Biblioteka\\HotelskiSistem.cs",
-              "RelativeToolTip": "..\\Biblioteka\\HotelskiSistem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\Biblioteka\\HotelskiSistem.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAA+wDkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T06:59:44.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UDPClient.csproj",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\UDPClient.csproj",
-              "RelativeDocumentMoniker": "..\\UDPClient\\UDPClient.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\UDPClient.csproj",
               "ToolTip": "C:\\Users\\Korisnik\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\UDPClient.csproj",
-              "RelativeToolTip": "..\\UDPClient\\UDPClient.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\prm\\v11\\Hotel - tim 22\\UDPClient\\UDPClient.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-04T07:27:11.396Z"

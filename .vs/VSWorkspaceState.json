@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Biblioteka",
-    "\\TCPClient",
-    "\\TCPServer"
+    ""
   ],
-  "SelectedNode": "\\TCPServer\\TCPServer.sln",
+  "SelectedNode": "\\TCPServer.sln",
   "PreviewInSolutionExplorer": false
 }
