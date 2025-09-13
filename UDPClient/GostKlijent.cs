@@ -166,9 +166,9 @@ namespace UDPClient
                 return;
             }
 
-            for (int i = 1; i < brGostijuInt; i++)
+            for (int i = 0; i < brGostijuInt; i++)
             {
-                Console.WriteLine($"\nGost {i}:");
+                Console.WriteLine($"\nGost {i+1}:");
                 Console.Write("Ime: ");
                 string ime = Console.ReadLine()?.Trim() ?? "";
 
