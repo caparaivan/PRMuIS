@@ -29,6 +29,7 @@ namespace HotelskiSistem
         public string BrojPasosa { get; set; }
     }
 
+    //serializable da bi objekat mogao da se spakuje u niz bajtova i posalje preko mreze
     [Serializable]
     public class Apartman
     {
