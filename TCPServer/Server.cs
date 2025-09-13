@@ -18,9 +18,9 @@ namespace TCPServer
         private static int MaxOsoblje = 3;
 
         private static List<Apartman> apartmani = new List<Apartman>();
-        private static Dictionary<IPEndPoint, Apartman> gostiIP = new Dictionary<IPEndPoint, Apartman>();
+        private static Dictionary<IPEndPoint, Apartman> gostiIP = new Dictionary<IPEndPoint, Apartman>(); //mapira IP adrese gostiju na njihove apartmane
 
-        private static List<Socket> povezanoOsoblje = new List<Socket>();
+        private static List<Socket> povezanoOsoblje = new List<Socket>(); //lista soketa povezanog osoblja sa serverom
         private static bool ServerRadi = true;
 
         public static void Main(string[] args)
@@ -50,8 +50,8 @@ namespace TCPServer
             Socket udpServerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 
             // TCP server (za osoblje)
-            IPEndPoint tcpServerEP = new IPEndPoint(IPAddress.Any, Port);
-            tcpServerSocket.Bind(tcpServerEP);
+            IPEndPoint tcpServerEP = new IPEndPoint(IPAddress.Any, Port); // slusa na svim adresama
+            tcpServerSocket.Bind(tcpServerEP); //rezervise port za tcp server
             tcpServerSocket.Blocking = false;
             tcpServerSocket.Listen(MaxOsoblje);
             Console.WriteLine($"Server: TCP server sluša na portu {Port} za osoblje.");
