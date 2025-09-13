@@ -14,18 +14,18 @@ namespace TCPClient
     public class OsobljeKlijent
     {
         private const int Port = 50001;
-        private static IPEndPoint serverEP = new IPEndPoint(IPAddress.Loopback, Port);
+        private static IPEndPoint serverEP = new IPEndPoint(IPAddress.Loopback, Port); //localhost 128.0.1
 
         public static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8; //zbog ć,đ,č
             Console.WriteLine("Dobrodošli, osoblje!");
-            Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp); //novi tcp socket socketfamily ipv4
             try
             {
                 clientSocket.Connect(serverEP);
                 Console.WriteLine("Povezano sa serverom. Čekam zadatke...");
-                clientSocket.Blocking = false;
+                clientSocket.Blocking = false; //neblokirajuci, izbegava cekanje na recieve
 
                 while (true)
                 {
