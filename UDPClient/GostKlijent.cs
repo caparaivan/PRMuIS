@@ -10,7 +10,7 @@ namespace UDPClient
     public class GostKlijent
     {
         private const int Port = 50001;
-        private static readonly IPEndPoint serverEP = new IPEndPoint(IPAddress.Loopback, Port);
+        private static readonly IPEndPoint serverEP = new IPEndPoint(IPAddress.Loopback, Port); //localhost 128.0.1
         private static bool UTokuboravka = false;
         private static Socket clientSocket;
 
@@ -19,12 +19,12 @@ namespace UDPClient
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Dobrodošli u hotelski sistem!");
 
-            clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp)
+            clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp) // UDP socket
             {
                 Blocking = false
             };
 
-            _ = Task.Run(() => OsluskujServer());
+            _ = Task.Run(() => OsluskujServer()); // _ zbog nepotrebnog povratnog podatka
 
             while (true)
             {
@@ -71,24 +71,23 @@ namespace UDPClient
         private static async Task OsluskujServer()
         {
             byte[] buffer = new byte[1024];
-            EndPoint remoteEP = new IPEndPoint(IPAddress.Any, 0);
+            EndPoint remoteEP = new IPEndPoint(IPAddress.Any, 0); // cuva adresu servera odakle je stigla poruka
 
             while (true)
             {
                 var checkRead = new List<Socket> { clientSocket };
-                Socket.Select(checkRead, null, null, 1000);
+                Socket.Select(checkRead, null, null, 1000); //provjera ima li sta za citanje
 
                 if (checkRead.Count > 0)
                 {
                     try
                     {
-                        int len = clientSocket.ReceiveFrom(buffer, ref remoteEP);
+                        int len = clientSocket.ReceiveFrom(buffer, ref remoteEP); // popunjava udaljene adrese
                         string poruka = Encoding.UTF8.GetString(buffer, 0, len);
                         ObradiPorukuServera(poruka);
                     }
                     catch (SocketException ex) when (
-                        ex.SocketErrorCode == SocketError.WouldBlock ||
-                        ex.SocketErrorCode == SocketError.IOPending)
+                        ex.SocketErrorCode == SocketError.WouldBlock || ex.SocketErrorCode == SocketError.IOPending)
                     {
                         // nema podataka
                     }
@@ -167,7 +166,7 @@ namespace UDPClient
                 return;
             }
 
-            for(int i=1; i<brGostijuInt; i++)
+            for (int i = 1; i < brGostijuInt; i++)
             {
                 Console.WriteLine($"\nGost {i}:");
                 Console.Write("Ime: ");
