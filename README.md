@@ -12,7 +12,7 @@
 ---
 
 ## 📖 Opis projekta
-**Simulacija rada hotelskog sistema** predstavlja model digitalizovanog upravljanja hotelom sa fokusom na:
+**Simulacija rada hotelskog sistema** sa fokusom na:
 - Rezervaciju apartmana putem UDP komunikacije sa gostima  
 - Praćenje aktivnosti gostiju (noćenja, minibar, alarm)  
 - Koordinaciju hotelskog osoblja putem TCP komunikacije  
