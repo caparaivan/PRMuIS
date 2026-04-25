@@ -1,53 +1,89 @@
-# Simulacija rada hotelskog sistema
+# 🏨 Simulacija rada hotelskog sistema
 
-[cite_start]Ovaj projekat predstavlja model **digitalizovanog upravljanja hotelom** sa fokusom na automatizaciju rezervacija, praćenje aktivnosti gostiju i koordinaciju hotelskog osoblja u realnom vremenu[cite: 2]. [cite_start]Sistem je zasnovan na klijent-server arhitekturi koja koristi UDP i TCP protokole za komunikaciju[cite: 2, 9].
+## 🚀 Korišćene tehnologije
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TCP](https://img.shields.io/badge/TCP-00457C?style=for-the-badge&logo=socketdotio&logoColor=white)
+![UDP](https://img.shields.io/badge/UDP-008000?style=for-the-badge&logo=socketdotio&logoColor=white)
+![IP](https://img.shields.io/badge/IP-Networking-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Programming-orange?style=for-the-badge&logo=code&logoColor=white)
+![Serialization](https://img.shields.io/badge/Binary%20Serialization-gray?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## 📖 Opis projekta
+**Simulacija rada hotelskog sistema** predstavlja model digitalizovanog upravljanja hotelom sa fokusom na:
+- Rezervaciju apartmana putem UDP komunikacije sa gostima  
+- Praćenje aktivnosti gostiju (noćenja, minibar, alarm)  
+- Koordinaciju hotelskog osoblja putem TCP komunikacije  
+- Evidenciju i obračun troškova  
+
+Centralni **server** je zadužen za:
+- Obradu rezervacija i praćenje statusa apartmana  
+- Slanje zadataka osoblju (čišćenje, minibar, alarm)  
+- Generisanje završnog računa za gosta  
+
+---
+
+## 🛠️ Funkcionalnosti
+- **Gost (UDP klijent)**  
+  - Unosi broj apartmana, broj gostiju i broj noći  
+  - Prima potvrdu rezervacije i završni račun  
+
+- **Osoblje (TCP klijent)**  
+  - Prima zadatke od servera (čišćenje, minibar, alarm)  
+  - Vraća potvrdu o izvršenju zadatka  
+
+- **Server**  
+  - Održava listu apartmana sa svim podacima  
+  - Evidentira goste, njihove troškove i stanje apartmana  
+  - Radi u neblokirajućem režimu (polling model)  
+
+---
 
 ## 🏗️ Arhitektura sistema
+- **Apartman**  
+  - Broj apartmana, sprat, klasa (1,2,3), maksimalan broj gostiju  
+  - Trenutni broj gostiju, stanje minibara, stanje apartmana (prazan, zauzet, potrebno čišćenje)  
+  - Stanje alarma (normalno/aktivirano)  
 
-[cite_start]Sistem se sastoji od tri ključne komponente[cite: 2, 9]:
+- **Gost**  
+  - Ime, prezime, pol, datum rođenja, broj pasoša  
 
-1.  [cite_start]**Centralni server**: Srce sistema koje održava evidenciju o svim apartmanima i gostima, obrađuje rezervacije i dodeljuje zadatke osoblju[cite: 9].
-2.  [cite_start]**Gosti (UDP klijenti)**: Korisnici koji šalju zahteve za rezervaciju, unose podatke o boravku i vrše narudžbine[cite: 2, 11].
-3.  [cite_start]**Hotelsko osoblje (TCP klijenti)**: Zaposleni koji primaju i potvrđuju zadatke za održavanje hotela putem pouzdane veze[cite: 2, 11].
+- **Osoblje**  
+  - ID, ime, prezime, pol, funkcija  
 
-### Komunikacioni protokoli
-* [cite_start]**UDP**: Koristi se za komunikaciju sa gostima radi brze prijave i unosa podataka o rezervaciji[cite: 2].
-* [cite_start]**TCP**: Koristi se za komunikaciju sa osobljem radi osiguravanja pouzdane dostave radnih zadataka[cite: 2].
-
----
-
-## ✨ Ključne funkcionalnosti
-
-### 🏨 Upravljanje apartmanima
-[cite_start]Sistem održava listu apartmana sa sledećim podacima[cite: 2, 10]:
-* [cite_start]**Osnovni parametri**: Broj apartmana, sprat, klasa (1, 2, 3) i maksimalan broj gostiju[cite: 10].
-* [cite_start]**Statusi**: Praćenje da li je apartman prazan, zauzet ili mu je potrebno čišćenje[cite: 10].
-* [cite_start]**Opremljenost i bezbednost**: Stanje minibara i praćenje protivpožarnog alarmnog sistema[cite: 2, 10].
-
-### 👤 Funkcije za goste
-* [cite_start]**Rezervacija**: Unos broja gostiju, broja noćenja i željene klase apartmana[cite: 2, 11].
-* [cite_start]**Tok boravka**: Mogućnost naručivanja hrane i pića, kao i aktivacija alarma u hitnim slučajevima[cite: 11, 12].
-* [cite_start]**Naplata**: Automatski obračun troškova noćenja, minibara i dodatnih usluga uz generisanje završnog računa[cite: 2, 12].
-
-### 🧹 Koordinacija osoblja
-[cite_start]Osoblje izvršava zadatke dodeljene od strane servera[cite: 9]:
-* [cite_start]**Čišćenje**: Održavanje apartmana koji su napušteni ili zahtevaju higijenu[cite: 9].
-* [cite_start]**Minibar**: Ažuriranje stanja pića i hrane na osnovu zahteva gostiju[cite: 9].
-* [cite_start]**Alarmi**: Hitna sanacija u slučaju aktivacije protivpožarnog alarma[cite: 9].
+- **Server**  
+  - UDP komunikacija sa gostima  
+  - TCP komunikacija sa osobljem  
+  - Serijalizacija podataka pomoću `BinaryFormatter` i `MemoryStream`  
 
 ---
 
-## 🛠️ Tehnička implementacija
-
-* [cite_start]**Neblokirajući server**: Implementiran polling model za istovremenu proveru poruka na UDP i TCP portovima[cite: 11].
-* [cite_start]**Serijalizacija**: Podaci o klasama `Apartman`, `Gost` i `Osoblje` prenose se binarnom serijalizacijom pomoću `MemoryStream`-a[cite: 10, 11].
-* [cite_start]**Algoritmi**: Automatizovan obračun troškova i dinamička alokacija slobodnih apartmana[cite: 2, 11].
+## 📌 Tok rada
+1. **Prijava gosta** – unos rezervacije putem UDP klijenta  
+2. **Boravak gosta** – korišćenje minibara, narudžbine, eventualna aktivacija alarma  
+3. **Koordinacija sa osobljem** – server šalje zadatke osoblju putem TCP-a  
+4. **Završetak rezervacije** – gost dobija završni račun, apartman prelazi u stanje „potrebno čišćenje“  
 
 ---
 
-## 👥 Projektni tim (Grupa 6)
+## 🧪 Primer upotrebe
+Gost rezerviše apartman klase 3 na trećem spratu za tri noći. Tokom boravka koristi minibar i aktivira alarm. Server evidentira troškove minibara i alarma. Po završetku rezervacije gost dobija ukupan račun, a apartman prelazi u stanje „potrebno čišćenje“ koje server prosleđuje osoblju.
 
-* [cite_start]**Ivan Ćapara** (PR105-2022) - [capara.ivan359@gmail.com](mailto:capara.ivan359@gmail.com) [cite: 1]
-* [cite_start]**Aleksandar Jokanović** (PR106-2022) - [cjokanovic76@gmail.com](mailto:cjokanovic76@gmail.com) [cite: 1]
+---
 
-[cite_start]**GitHub link**: [https://github.com/caparaivan/PRMUIS](https://github.com/caparaivan/PRMUIS) [cite: 1]
+## 📂 Struktura projekta
+- **Server aplikacija** – centralna logika, UDP/TCP komunikacija  
+- **Klijent (Gost)** – rezervacije i narudžbine  
+- **Klijent (Osoblje)** – izvršavanje zadataka i potvrde  
+
+---
+
+## ▶️ Pokretanje
+1. Pokrenuti **server aplikaciju**  
+2. Pokrenuti **klijentsku aplikaciju za gosta** (UDP)  
+3. Pokrenuti **klijentsku aplikaciju za osoblje** (TCP)  
+4. Testirati rezervacije, narudžbine i zadatke osoblja  
+
+---
