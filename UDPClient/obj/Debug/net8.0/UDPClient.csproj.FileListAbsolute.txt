@@ -16,3 +16,22 @@ C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\UDPClient\obj\Debug\net8.0\refi
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\UDPClient\obj\Debug\net8.0\UDPClient.pdb
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\UDPClient\obj\Debug\net8.0\UDPClient.genruntimeconfig.cache
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\UDPClient\obj\Debug\net8.0\ref\UDPClient.dll
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\bin\Debug\net8.0\UDPClient.exe
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\bin\Debug\net8.0\UDPClient.deps.json
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\bin\Debug\net8.0\UDPClient.runtimeconfig.json
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\bin\Debug\net8.0\UDPClient.dll
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\bin\Debug\net8.0\UDPClient.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\bin\Debug\net8.0\Biblioteka.dll
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\bin\Debug\net8.0\Biblioteka.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.AssemblyInfo.cs
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.sourcelink.json
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.csproj.Up2Date
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.dll
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\refint\UDPClient.dll
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\UDPClient.genruntimeconfig.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\UDPClient\obj\Debug\net8.0\ref\UDPClient.dll

@@ -35,3 +35,13 @@ C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.c
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.csproj.Up2Date
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.exe
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\obj\Debug\TCPClient.csproj.Up2Date
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPClient\obj\Debug\TCPClient.pdb

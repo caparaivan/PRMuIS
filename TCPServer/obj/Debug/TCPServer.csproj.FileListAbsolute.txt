@@ -35,3 +35,13 @@ C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.c
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.csproj.Up2Date
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.exe
 C:\Users\Korisnik\Desktop\prm\v11\Hotel - tim 22\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\bin\Debug\Biblioteka.dll
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\bin\Debug\Biblioteka.pdb
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\obj\Debug\TCPServer.csproj.Up2Date
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Korisnik\Source\Repos\PRMuIS\TCPServer\obj\Debug\TCPServer.pdb
